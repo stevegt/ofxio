@@ -1,4 +1,4 @@
-module ofxio
+module github.com/stevegt/ofxio
 
 go 1.16
 
